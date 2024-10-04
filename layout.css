@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+body{
+    background-color: aquamarine;
+}
+header{
+    background-color: green;
+    width: 960px;
+    height: auto;
+    padding: 20px;
+    border-width: 5px;
+    border-color: #fff;
+    border-style: dashed;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -8px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+main{
+    background-color: #80d6c0;
+    font-family: Arial, sans-serif;
+    width: 970px;
+    height: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    margin: 0 auto;
+    margin-bottom: 50px;
+    text-align: center;
+}
+footer {
+    background-color: green;
+    width: 970px;
+    height: 100px;
+    padding-left: 20px;
+    padding: 20px 20px 20px 20px;
+    border-top-width: 10px;
+    border-top-color: azure;
+    border-style: dotted;
+    margin: 0 auto;
+}
+h1{
+    background-color: rgba(255,255,255,.75)
+}
+p{
+    color:#fff
+}
+h1 {
+  color: blue;
+  font-family:'Times New Roman', Times, serif;
+}
+h3 {
+  background-color: blue;
+}
+li {
+  font-size: 18px;
+}
+ol li {
+  text-decoration: underline;
+  list-style: square;
+}
+ul li {
+  text-decoration: underline;
+  list-style: square;
+}
+p em {
+  font-weight: lighter;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+nav{
+background-color:pink;
+width: 400px;
+padding: 10px;
+margin: 0 auto;
+}
+nav a{
+    font-size: 20px;
+    color: blue;
+    margin-right: 30px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+nav a:hover {
+  text-decoration:none;
+  background-color: rgb(42, 167, 155);
+}
+.imagegallery{
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    border-color: green;
+    border-width: 10px 10px 10px 10px;
+}
+.filter{
+    filter: grayscale(80%);
+}
+.centerImage{
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+.highlight{
+    background-color: green;
+}
+.green{
+    background-color: green;
+}
+.box{
+    background-color: blue;
+}
